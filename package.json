@@ -1,0 +1,9 @@
+{
+  "name": "cpg-angular",
+  "version": "0.0.0",
+  "description": "Angular.js support files",
+  "main": "index.js",
+  "repository": "https://github.com/rodneym/cpg-angular.git",
+  "author": "Rodney Muras",
+  "license": "mit"
+}
